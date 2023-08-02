@@ -8,7 +8,7 @@
 3. Go into Team Fortress 2/tf/cfg/\
 ![image](https://github.com/xamionex/Configs/assets/57235791/3ecdeba7-887f-402a-8bd9-c44a5075ea1e)
 ![image](https://github.com/xamionex/Configs/assets/57235791/74fa488a-7bcc-4dbc-adad-e564c882349f)
-4. Extract the zip into the folder\
+4. Extract the zip into the folder (using 7zip)\
 ![image](https://github.com/xamionex/Configs/assets/57235791/27e5f31c-2a7a-4a95-85bd-3ee7a72ad911)
 
 ### A lot of the things in this cfg are explained inside there, here are some previews though
