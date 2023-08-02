@@ -1,2 +1,8 @@
-![02d;10h;06m;42s;844ms](https://github.com/xamionex/Configs/assets/57235791/e8984289-c2b3-46e7-8d7e-cb2f91079119)
-![02d;10h;06m;31s;787ms](https://github.com/xamionex/Configs/assets/57235791/b74e2f82-2a9e-45d5-a9a1-395e4694094f)
+# Please read the autoexec
+
+## A lot of the things in this cfg are explained inside there, here are some previews though
+
+![image](https://github.com/xamionex/Configs/assets/57235791/e5a159fd-6284-41d1-b3d8-1331d4fe0ff6)
+![image](https://github.com/xamionex/Configs/assets/57235791/6f3f19d7-0daa-4ada-be3f-7cd7dac546e4)
+![image](https://github.com/xamionex/Configs/assets/57235791/2fe07026-0264-4d6b-b392-96e2a170da1f)
+![image](https://github.com/xamionex/Configs/assets/57235791/dfd8c0ca-c25f-4f7c-ad05-9158afa11342)
