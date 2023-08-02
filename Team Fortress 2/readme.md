@@ -10,6 +10,10 @@
 ![image](https://github.com/xamionex/Configs/assets/57235791/74fa488a-7bcc-4dbc-adad-e564c882349f)
 4. Extract the zip into the folder (using 7zip)\
 ![image](https://github.com/xamionex/Configs/assets/57235791/27e5f31c-2a7a-4a95-85bd-3ee7a72ad911)
+5. IF Ingame: run `exec autoexec` in console
+   - If console is disabled either:
+     - go into options > controls > advanced > enable developer console, then open it with ~
+     - restart the game
 
 ### A lot of the things in this cfg are explained inside there, here are some previews though
 
