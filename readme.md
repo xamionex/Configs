@@ -15,6 +15,10 @@
      - go into options > controls > advanced > enable developer console, then open it with ~
      - restart the game
 
+## Customizing
+
+Adding a settings.cfg file next to autoexec will be used after all the cfgs from my config
+
 ### A lot of the things in this cfg are explained inside there, here are some previews though
 
 ![image](https://github.com/xamionex/Configs/assets/57235791/e5a159fd-6284-41d1-b3d8-1331d4fe0ff6)
