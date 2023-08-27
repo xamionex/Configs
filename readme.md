@@ -2,7 +2,7 @@
 
 ## How to install
 
-This is meant to be used with mastercomfig, if you don't have it, add `+exec overrides/autoexec` to your launch options in steam
+This is meant to be used with mastercomfig, if you don't have it, add `+exec overrides/autoexec` to your launch options in steam and move all the class related commands inside overrides to tf/cfg/
 
 1. Download [here](https://download-directory.github.io/?url=https://github.com/xamionex/Configs/tree/main/Team%20Fortress%202)
 2. Locate TF2 location\
