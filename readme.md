@@ -2,15 +2,13 @@
 
 ## How to install
 
-1. Download [here](https://download-directory.github.io/?url=https://github.com/xamionex/Configs/tree/main/Team%20Fortress%202)\
+This is meant to be used with mastercomfig, if you don't have it, add `+exec overrides/autoexec` to your launch options in steam
+
+1. Download [here](https://download-directory.github.io/?url=https://github.com/xamionex/Configs/tree/main/Team%20Fortress%202)
 2. Locate TF2 location\
-![image](https://github.com/xamionex/Configs/assets/57235791/c49d6d46-26e8-4d4e-8f06-5731e57ef2c4)
 3. Go into Team Fortress 2/tf/cfg/\
-![image](https://github.com/xamionex/Configs/assets/57235791/3ecdeba7-887f-402a-8bd9-c44a5075ea1e)
-![image](https://github.com/xamionex/Configs/assets/57235791/74fa488a-7bcc-4dbc-adad-e564c882349f)
 4. Extract the zip into the folder (using 7zip)\
-![image](https://github.com/xamionex/Configs/assets/57235791/27e5f31c-2a7a-4a95-85bd-3ee7a72ad911)
-5. IF Ingame: run `exec autoexec` in console
+5. IF Ingame: run `exec overrides/autoexec` in console
    - If console is disabled either:
      - go into options > controls > advanced > enable developer console, then open it with ~
      - restart the game
