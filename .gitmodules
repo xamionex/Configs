@@ -1,0 +1,3 @@
+[submodule "Team Fortress 2/tf/custom/budhud"]
+	path = Team Fortress 2/tf/custom/budhud
+	url = https://github.com/xamionex/budhud.git
